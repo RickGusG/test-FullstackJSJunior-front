@@ -17,3 +17,5 @@ yarn
 ```bash
 expo start
 ```
+## Observation
+This app only works in localhost.
